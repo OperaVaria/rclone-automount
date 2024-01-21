@@ -23,6 +23,6 @@ Tested on Windows 11 with rclone v1.65.1.
 
 [Get rclone (not affiliated)](https://rclone.org/downloads/)
 
-**[Contact](mailto:lcs_it@gmail.com)**
+**[Contact](mailto:lcs_it@proton.me)**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
