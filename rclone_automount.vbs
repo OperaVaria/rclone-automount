@@ -1,4 +1,4 @@
-'Rclone Automount Script Template
+'Rclone Automount Script Template (https://github.com/OperaVaria/rclone-automount)
 'by OperaVaria, 2024.
 
 'Mandatory variable declaration, helps to avoid errors.
